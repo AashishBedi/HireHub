@@ -3,7 +3,7 @@
 > A full-stack job portal where AI matches candidates to jobs using resume analysis and semantic similarity scoring.
 
 [![Java CI](https://github.com/AashishBedi/HireHub/actions/workflows/ci.yml/badge.svg)](https://github.com/AashishBedi/HireHub/actions/workflows/ci.yml)
-🔗 **Live Demo:** [https://hire-hub-delta.vercel.app](https://hire-hub-delta.vercel.app)
+🔗 **Live Demo:** [https://hirehub-web-delta.vercel.app/](https://hirehub-web-delta.vercel.app/)
 ---
 
 ## Overview
