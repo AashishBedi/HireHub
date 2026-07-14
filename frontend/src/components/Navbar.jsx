@@ -46,7 +46,7 @@ export default function Navbar() {
                 <Briefcase size={16} className="text-white" />
               </div>
               <span className="font-bold text-lg text-slate-900">
-              Hire<span className="text-blue-600">AI</span>
+              Hire<span className="text-blue-600">Hub</span>
             </span>
             </NavLink>
 
