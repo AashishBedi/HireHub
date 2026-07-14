@@ -38,7 +38,7 @@ export default function LoginPage() {
             <Briefcase size={36} className="text-white" />
           </div>
           <h2 className="text-3xl font-extrabold text-slate-900 mb-3">
-            Hire<span className="text-blue-600">AI</span>
+            Hire<span className="text-blue-600">Hub</span>
           </h2>
           <p className="text-slate-500 leading-relaxed">
             Your AI-powered career platform. Get matched with opportunities that fit your skills perfectly.

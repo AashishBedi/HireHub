@@ -61,7 +61,7 @@ export default function RegisterPage() {
                 <div className="w-8 h-8 bg-gradient-to-br from-blue-600 to-blue-800 rounded-lg flex items-center justify-center">
                   <Briefcase size={16} className="text-white" />
                 </div>
-                <span className="font-bold text-lg text-slate-900">Hire<span className="text-blue-600">AI</span></span>
+                <span className="font-bold text-lg text-slate-900">Hire<span className="text-blue-600">Hub</span></span>
               </Link>
               <h1 className="text-3xl font-extrabold text-slate-900">Create account</h1>
               <p className="text-slate-500 mt-1">Join thousands of professionals on HireHub</p>
