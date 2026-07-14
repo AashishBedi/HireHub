@@ -1,4 +1,4 @@
-# HireAI — AI-Powered Job Portal Frontend
+# HireHub — AI-Powered Job Portal Frontend
 
 > A modern React 18 frontend for an AI-powered job portal with role-based access, JWT authentication, resume analysis, and intelligent job matching.
 
@@ -24,7 +24,7 @@
 
 ## Overview
 
-HireAI is a two-role job portal:
+HireHub is a two-role job portal:
 
 | Role | Capabilities |
 |---|---|

@@ -57,7 +57,7 @@ export default function LoginPage() {
           <div className="bg-white rounded-3xl shadow-2xl border border-slate-100 p-8">
             <div className="mb-8">
               <h1 className="text-3xl font-extrabold text-slate-900">Welcome back</h1>
-              <p className="text-slate-500 mt-1">Sign in to your HireAI account</p>
+              <p className="text-slate-500 mt-1">Sign in to your HireHub account</p>
             </div>
 
             <form onSubmit={handleSubmit} className="space-y-5">

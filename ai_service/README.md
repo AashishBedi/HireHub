@@ -1,6 +1,6 @@
-﻿---
-title: Hireai Ai Service
-emoji: 🤖
+---
+title: HireHub Ai Service
+emoji: ??
 colorFrom: blue
 colorTo: green
 sdk: docker

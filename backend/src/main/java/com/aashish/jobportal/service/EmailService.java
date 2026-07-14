@@ -74,7 +74,7 @@ public class EmailService {
                     "Hi " + seekerName + ",\n\n" +
                             "Your application for \"" + jobTitle + "\" has been submitted successfully.\n\n" +
                             "We will notify you when the recruiter reviews your application.\n\n" +
-                            "Best regards,\nHireAI Team"
+                            "Best regards,\nHireHub Team"
             );
             mailSender.send(message);
             log.info("[EMAIL] Application confirmation sent successfully → to={}", toEmail);
@@ -107,7 +107,7 @@ public class EmailService {
                     "Hi " + seekerName + ",\n\n" +
                             "Your application for \"" + jobTitle + "\" has been updated.\n\n" +
                             "New Status: " + newStatus + "\n\n" +
-                            "Best regards,\nHireAI Team"
+                            "Best regards,\nHireHub Team"
             );
             mailSender.send(message);
             log.info("[EMAIL] Status update sent successfully → to={} status={}", toEmail, newStatus);

@@ -1,14 +1,14 @@
-# HireAI — AI-Powered Job Portal
+# HireHub — AI-Powered Job Portal
 
 > A full-stack job portal where AI matches candidates to jobs using resume analysis and semantic similarity scoring.
 
-[![Java CI](https://github.com/AashishBedi/HireAI/actions/workflows/ci.yml/badge.svg)](https://github.com/AashishBedi/HireAI/actions/workflows/ci.yml)
-🔗 **Live Demo:** [https://hire-ai-delta.vercel.app](https://hire-ai-delta.vercel.app)
+[![Java CI](https://github.com/AashishBedi/HireHub/actions/workflows/ci.yml/badge.svg)](https://github.com/AashishBedi/HireHub/actions/workflows/ci.yml)
+🔗 **Live Demo:** [https://hire-hub-delta.vercel.app](https://hire-hub-delta.vercel.app)
 ---
 
 ## Overview
 
-HireAI is a production-grade job portal built with a Spring Boot backend, React frontend, and a FastAPI AI sidecar. It uses sentence-transformers to compute semantic similarity between a candidate's resume and job descriptions, ranking applicants by AI match score and identifying skill gaps.
+HireHub is a production-grade job portal built with a Spring Boot backend, React frontend, and a FastAPI AI sidecar. It uses sentence-transformers to compute semantic similarity between a candidate's resume and job descriptions, ranking applicants by AI match score and identifying skill gaps.
 
 ---
 
@@ -73,7 +73,7 @@ HireAI is a production-grade job portal built with a Spring Boot backend, React 
 
 ## Project Structure
 
-    HireAI/
+    HireHub/
     ├── backend/                    # Spring Boot API
     │   ├── src/main/java/com/aashish/jobportal/
     │   │   ├── config/             # Redis, WebClient config

@@ -64,7 +64,7 @@ export default function RegisterPage() {
                 <span className="font-bold text-lg text-slate-900">Hire<span className="text-blue-600">AI</span></span>
               </Link>
               <h1 className="text-3xl font-extrabold text-slate-900">Create account</h1>
-              <p className="text-slate-500 mt-1">Join thousands of professionals on HireAI</p>
+              <p className="text-slate-500 mt-1">Join thousands of professionals on HireHub</p>
             </div>
 
             {/* Role toggle */}
