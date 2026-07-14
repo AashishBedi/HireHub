@@ -34,7 +34,7 @@ public class SecurityConfig {
                     // Replace with your actual Vercel domain once you deploy the frontend
                     corsConfiguration.setAllowedOrigins(java.util.List.of(
                             "http://localhost:5173",
-                            "https://hire-hub-delta.vercel.app" // Add your exact Vercel URL here!
+                            "https://hirehub-web-delta.vercel.app/" // Add your exact Vercel URL here!
                     ));                    corsConfiguration.setAllowedMethods(java.util.List.of("GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"));
                     corsConfiguration.setAllowedHeaders(java.util.List.of("*"));
                     corsConfiguration.setAllowCredentials(true);
